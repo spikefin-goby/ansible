@@ -3,3 +3,4 @@ dependencies:
   - {role: ntp, tags: ntp}
   - {role: timezone, tags: timezone}
   - {role: common-package, tags: common-package}
+  - {role: apache, tags: apache}
