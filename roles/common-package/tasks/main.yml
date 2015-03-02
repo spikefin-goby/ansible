@@ -1,0 +1,9 @@
+---
+- name: Install dstat package
+  yum: name=dstat state=latest
+
+- name: Install git package
+  yum: name=git state=latest
+
+- name: Install screen package
+  yum: name=screen state=latest
